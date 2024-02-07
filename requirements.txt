@@ -1,7 +1,7 @@
 asgiref==3.4.1
 certifi==2021.5.30
 charset-normalizer==2.0.3
-Django==3.2.5
+Django==3.2.24
 humanfriendly==9.2
 idna==3.2
 pyreadline==2.1
